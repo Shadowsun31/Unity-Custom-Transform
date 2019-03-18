@@ -1,0 +1,16 @@
+{
+    "name": "com.onanagro.tools.internal.transform.editor",
+    "references": [
+        "com.onanagro.tools.internal.customgizmos"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
